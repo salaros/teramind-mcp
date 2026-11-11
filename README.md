@@ -1,8 +1,8 @@
 # Teramind MCP Server
 
-MCP server for [Teramind](https://teramind.co/)'s insider-threat/employee-monitoring API - computer inventory, agent (user) inventory, departments, alerts, anomaly-rule and behavior-policy configuration, and monitoring-profile metadata - for AI assistants and the WYRE Conduit gateway.
+MCP server for [Teramind](https://teramind.co/)'s insider-threat API - computer inventory, agent (user) inventory, departments, alerts, anomaly-rule and behavior-policy configuration, and monitoring-profile metadata - for AI assistants and the WYRE Conduit gateway.
 
-**This connector is PII-dense by construction** (insider-threat/employee-monitoring product) and requires security review before merge - see [Scope](#scope) and [Credential scope](#credential-scope-read-this-before-connecting-a-real-account) below.
+**This connector is PII-dense by construction** (insider-threat product) and requires security review before merge - see [Scope](#scope) and [Credential scope](#credential-scope-read-this-before-connecting-a-real-account) below.
 
 ## Authentication
 
